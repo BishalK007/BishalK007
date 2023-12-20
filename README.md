@@ -4,8 +4,8 @@
  I'm Bishal</h1>  
 <h3 align="center">A Software Engineer & A Tech Geek</h3>  
   
+[![trophy](https://github-profile-trophy.vercel.app/?username=BishalK007&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=bishalk007" alt="bishalk007" /></p>  
   
 <p align="left"> <a href="https://twitter.com/bishalk48148854" target="blank"><img src="https://img.shields.io/twitter/follow/bishalk48148854?logo=twitter&style=for-the-badge" alt="bishalk48148854" /></a> </p>  
   
