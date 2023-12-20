@@ -23,19 +23,19 @@
 <h3 align="left">Languages and Tools:</h3>  
 
 <p>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/gc8QntZd/NextJS.png" alt="nextjs" width="40" height="40" style="border-radius: 50%;" /> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/T1mdB2Ks/typescript.png" alt="typescript" width="40" height="40"/> </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/tgJBnMW4/icons8-linux.gif" alt="linux" width="40" height="40"/> </a> 
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/bvVMLFns/AWS-Emblem.png" alt="aws" width="60" height="40"/> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/L8JLywRZ/c.png" alt="cplusplus" width="50" height="50" style="transform: translateY(5px);"/> </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/L8JLywRZ/c.png" alt="cplusplus" width="40" height="40" style="transform: translateY(5px);"/> </a>
     <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/8cH2Sk3z/dart.png" alt="dart" width="40" height="40"/> </a> 
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/CMz67gw0/docker.gif" alt="docker" width="40" height="40" style="border-radius: 50%;" /> </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/K8WnZR1p/firebase.gif" alt="firebase" width="40" height="40" style="border-radius: 50%;" /> </a> 
     <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/7ZLSSgvZ/Flutter.png" alt="flutter" width="60" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/QtXqnVV6/git.gif" alt="git" width="40" height="40" style="transform: translateY(5px);"/> </a> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/MpWPqTGR/icons8-java.gif" alt="java" width="40" height="40"/> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/T1mdB2Ks/typescript.png" alt="typescript" width="40" height="40"/> </a>
     <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/Gpyb4hQm/kubernetes.png" alt="kubernetes" width="40" height="40"/> </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/tgJBnMW4/icons8-linux.gif" alt="linux" width="40" height="40"/> </a> 
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/wvxyLmbk/mongoDB.gif" alt="mongodb" width="40" height="40" style="border-radius: 50%;" /> </a> 
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/gc8QntZd/NextJS.png" alt="nextjs" width="40" height="40" style="border-radius: 50%;" /> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/yNGvmyyX/icons8-python.gif" alt="python" width="40" height="40"/> </a> </p>  
 </p>
 
