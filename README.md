@@ -17,7 +17,7 @@
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
-<a href="https://twitter.com/bishalk48148854" target="blank"><img align="center" src="https://i.postimg.cc/vDRwh2pW/TWITTERX.gif" alt="bishalk48148854" height="40" width="40" style="border-radius: 50%;" /></a> <a href="https://linkedin.com/in/bishal-123-karmakar" target="blank"><img align="center" src="https://i.postimg.cc/qRDHWvCX/linkdin.png" alt="bishal-123-karmakar" height="40" width="40" /></a>  <a href="https://instagram.com/bishalkmkr" target="blank"><img align="center" src="https://i.postimg.cc/DZQmksck/instagram.gif" alt="bishalkmkr" height="40" width="40" /></a>  
+<a href="https://twitter.com/BishalK_" target="blank"><img align="center" src="https://i.postimg.cc/vDRwh2pW/TWITTERX.gif" alt="bishalk48148854" height="40" width="40" style="border-radius: 50%;" /></a> <a href="https://linkedin.com/in/bishal-123-karmakar" target="blank"><img align="center" src="https://i.postimg.cc/qRDHWvCX/linkdin.png" alt="bishal-123-karmakar" height="40" width="40" /></a>  <a href="https://instagram.com/bishalkmkr" target="blank"><img align="center" src="https://i.postimg.cc/DZQmksck/instagram.gif" alt="bishalkmkr" height="40" width="40" /></a>  
 </p>  
   
 <h3 align="left">Languages and Tools:</h3>  
