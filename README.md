@@ -7,7 +7,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=BishalK007&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
   
-<p align="left"> <a href="https://twitter.com/bishalk48148854" target="blank"><img src="https://img.shields.io/twitter/follow/bishalk48148854?logo=twitter&style=for-the-badge" alt="bishalk48148854" /></a> </p>  
+<p align="left"> <a href="https://x.com/BishalK_" target="blank"><img src="https://img.shields.io/twitter/follow/BishalK_?logo=twitter&style=for-the-badge" alt="BishalK_" /></a> </p>  
   
 - 👨‍💻 All of my projects are available at [bishal.pro](https://bishal.pro/)  
   
