@@ -9,7 +9,7 @@
   
 <p align="left"> <a href="https://twitter.com/bishalk48148854" target="blank"><img src="https://img.shields.io/twitter/follow/bishalk48148854?logo=twitter&style=for-the-badge" alt="bishalk48148854" /></a> </p>  
   
-- 👨‍💻 All of my projects are available at [bishalk.vercel.app](bishalk.vercel.app)  
+- 👨‍💻 All of my projects are available at [bishal.pro](https://bishal.pro/)  
   
 - 💬 Ask me about **NextJS, Flutter, Docker & pretty much anything**  
   
